@@ -1,0 +1,10 @@
+#Check Pass/Fail using if-else.
+marks=int(input("enter the total marks:"))
+if marks>=600:
+    print("the student is pass")
+else:
+    print("the student is failed:")   
+
+
+    
+    
