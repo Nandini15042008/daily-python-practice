@@ -1,0 +1,16 @@
+# vowels and consonants counter
+
+# i=input("enter an unique word:")
+# for i in i:
+#     print(i)
+#     if (i=="a"):
+#         print("yes")
+#     else:
+#         print("no")    
+variable=input("enter your name with usn:")
+if(variable=="a or e or i or o or u"):
+    print("vowels are present:")
+else:
+    print("consonants are present:") 
+    # finally i have created but i am not getting the expected output 
+       
